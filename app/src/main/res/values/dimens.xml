@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen name="screen_margin">10dp</dimen>
+    <dimen name="item_margin">5dp</dimen>
+    <dimen name="title_subtitle_margin">2dp</dimen>
+    <dimen name="subtitle_desc_margin">3dp</dimen>
+    <dimen name="item_image_margin">2dp</dimen>
+    <dimen name="extra_margin">30dp</dimen>
+    <dimen name="medium_margin">12dp</dimen>
+    <dimen name="divider_line_height">1dp</dimen>
+    <dimen name="three_hundred_dp">300dp</dimen>
+    <dimen name="hundred_ninety_five_dp">195dp</dimen>
+    <dimen name="hundred_ninety_dp">190dp</dimen>
+    <dimen name="hundred_eighty_five_dp">185dp</dimen>
+    <dimen name="hundred_eighty_dp">180dp</dimen>
+    <dimen name="hundred_seventy_five_dp">175dp</dimen>
+    <dimen name="hundred_seventy_dp">170dp</dimen>
+    <dimen name="hundred_sixty_five_dp">165dp</dimen>
+    <dimen name="hundred_sixty_dp">160dp</dimen>
+    <dimen name="hundred_fifty_five_dp">155dp</dimen>
+    <dimen name="hundred_forty_five_dp">145dp</dimen>
+    <dimen name="hundred_forty_dp">140dp</dimen>
+    <dimen name="hundred_thirty_five_dp">135dp</dimen>
+    <dimen name="hundred_thirty_dp">130dp</dimen>
+    <dimen name="hundred_twenty_five_dp">125dp</dimen>
+    <dimen name="hundred_twenty_dp">120dp</dimen>
+    <dimen name="hundred_fifteen_dp">115dp</dimen>
+    <dimen name="hundred_ten_dp">110dp</dimen>
+    <dimen name="hundred_five_dp">105dp</dimen>
+    <dimen name="hundred_dp">100dp</dimen>
+    <dimen name="ninety_five_dp">95dp</dimen>
+    <dimen name="ninety_dp">90dp</dimen>
+    <dimen name="eighty_five_dp">85dp</dimen>
+    <dimen name="eighty_dp">80dp</dimen>
+    <dimen name="seventy_five_dp">75dp</dimen>
+    <dimen name="seventy_dp">70dp</dimen>
+    <dimen name="sixty_five_dp">65dp</dimen>
+    <dimen name="sixty_dp">60dp</dimen>
+    <dimen name="fifty_five_dp">55dp</dimen>
+    <dimen name="fifty_dp">50dp</dimen>
+    <dimen name="forty_five_dp">45dp</dimen>
+    <dimen name="forty_dp">40dp</dimen>
+    <dimen name="thirty_five_dp">35dp</dimen>
+    <dimen name="thirty_dp">30dp</dimen>
+    <dimen name="twenty_five_dp">25dp</dimen>
+    <dimen name="twenty_dp">20dp</dimen>
+    <dimen name="eighteen_dp">18dp</dimen>
+    <dimen name="fifteen_dp">15dp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="seven_dp">7dp</dimen>
+    <dimen name="five_dp">5dp</dimen>
+    <dimen name="minus_five_dp">-5dp</dimen>
+    <dimen name="nav_bar_height">50dp</dimen>
+    <dimen name="nav_bar_logo">30dp</dimen>
+    <dimen name="tab_bar_height">40dp</dimen>
+    <dimen name="button_size">@dimen/thirty_five_dp</dimen>
+    <dimen name="corner_radius">1dp</dimen>
+    <dimen name="thirteen_dp">13dp</dimen>
+    <dimen name="eleven_dp">11dp</dimen>
+    <dimen name="two_hundred_ten_dp">210dp</dimen>
+    <dimen name="two_hundred_twenty_dp">220dp</dimen>
+    <dimen name="hundred_fifty_dp">150dp</dimen>
+    <dimen name="two_hundred_thirty_dp">230dp</dimen>
+    <dimen name="two_hundred_sixty_dp">260dp</dimen>
+    <dimen name="three_hundred_ten_dp">310dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="bottom_tab_height">60dp</dimen>
+    <dimen name="bottom_tab_icon">@dimen/twenty_five_dp</dimen>
+
+    <!--Use only for TextSize-->
+    <dimen name="twenty_five_sp">25sp</dimen>
+    <dimen name="nineteen_sp">19sp</dimen>
+    <dimen name="seventeen_sp">17sp</dimen>
+    <dimen name="fifteen_sp">15sp</dimen>
+    <dimen name="fourteen_sp">14sp</dimen>
+    <dimen name="thirteen_sp">13sp</dimen>
+    <dimen name="twelve_sp">12sp</dimen>
+    <dimen name="eleven_sp">11sp</dimen>
+    <dimen name="ten_sp">10sp</dimen>
+    <dimen name="eight_sp">8sp</dimen>
+    <dimen name="nine_sp">9sp</dimen>
+
+
+    <dimen name="HugeFontSize">@dimen/twenty_five_sp</dimen>
+    <dimen name="BigFontSize">@dimen/seventeen_sp</dimen>
+    <dimen name="HeaderTextSize">@dimen/seventeen_sp</dimen>
+    <dimen name="MediumTextSize">@dimen/fourteen_sp</dimen>
+    <dimen name="MenuFontSize">@dimen/twelve_sp</dimen>
+    <dimen name="TitleTextSize">@dimen/thirteen_sp</dimen>
+    <dimen name="SubTitleTextSize">@dimen/eleven_sp</dimen>
+    <dimen name="ElevenTextSize">@dimen/ten_sp</dimen>
+    <dimen name="DescriptionTextSize">@dimen/nine_sp</dimen>
+    <dimen name="SmallestTextSize">@dimen/eight_sp</dimen>
+    <dimen name="SmallTextSize">@dimen/nine_sp</dimen>
+    <dimen name="btnTextSize">@dimen/twelve_sp</dimen>
+    <dimen name="ToolbarHeaderTextSize">@dimen/thirteen_sp</dimen>
+    <!--use this for toolbar text size-->
+
+
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">@dimen/SmallestTextSize
+    </dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">
+        @dimen/SmallestTextSize
+    </dimen>
+</resources>
